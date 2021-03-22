@@ -16,3 +16,4 @@
 * Static code analysis using cppcheck
 * Dynamic Code analysis using Valgrind
 
+# A new line
